@@ -1,8 +1,25 @@
-# Installation
+# installation 
+Nodejs, Vscode editor, Browser
+# Create new Project
+npx create-react-app my-app
+# install project
 npm i
+# run Project
+npm start
+# open Project in Browser
+Open [http://localhost:3000]
+# npm package using
+"react-icons": "^4.7.1",
+"react-responsive-carousel": "^3.2.23",
+"react-router-dom": "^6.8.1",
+"react-router-hash-link": "^2.4.3",
+"react-saas": "^1.0.3",
+"react-scripts": "5.0.1",
+"saas": "^1.0.0",
+# Description 
 
-# Run
-npm run start
+
+
 
 #ScreenShorts
 

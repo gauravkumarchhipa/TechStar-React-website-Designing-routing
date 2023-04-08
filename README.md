@@ -13,11 +13,11 @@ Open [http://localhost:3000]
 "react-responsive-carousel": "^3.2.23",
 "react-router-dom": "^6.8.1",
 "react-router-hash-link": "^2.4.3",
-"react-saas": "^1.0.3",
+"saas": "^1.0.3",
 "react-scripts": "5.0.1",
 "saas": "^1.0.0",
 # Description 
-
+This React App in using React-router-dom & react-hash-link, saas, react-responsive-carousel. This app is simple designing and carousel using Image slider purpuse basic knowledge.
 
 
 

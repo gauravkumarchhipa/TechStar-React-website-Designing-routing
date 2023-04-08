@@ -17,7 +17,7 @@ Open [http://localhost:3000]
 "react-scripts": "5.0.1",
 "saas": "^1.0.0",
 # Description 
-This React App in using React-router-dom & react-hash-link, saas, react-responsive-carousel. This app is simple designing and carousel using Image slider purpuse basic knowledge.
+This React App in using React-router-dom & react-hash-link, saas, react-responsive-carousel. This app is simple designing and carousel using Image slider  goal is basic knowledge.
 
 
 
